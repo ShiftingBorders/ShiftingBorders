@@ -17,7 +17,7 @@ I also work with Neural Architecture Search (NAS) and Evolutionary Algorithms.
 - **ML/DL**: PyTorch, PyTorch Lightning, Optuna  
 - **LLM & Multi-Agent**: Transformers, LangChain, LangGraph, Ollama Python  
 - **Data Processing**: Pandas, NumPy, Matplotlib, Seaborn  
-- **DevOps**: Git, Docker  
+- **DevOps**: Git, Docker, Docker-compose  
 - **Databases**: ChromaDB, Redis
 
 ---
