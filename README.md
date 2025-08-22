@@ -24,7 +24,7 @@ I also work with Neural Architecture Search (NAS) and Evolutionary Algorithms.
 
 ## 🚀 Projects
 - [⚔️ HeroBench: A Benchmark for Long-Horizon Planning and Structured Reasoning in Virtual Worlds](https://github.com/stefanrer/HeroBench) - A1 Agent developer.
-- [🧬 BlockNAS](https://github.com/ShiftingBorders/SimpleBlockNAS) – a revised edition of my MSc Thesis research.
+- [🧬 BlockNAS](https://github.com/ShiftingBorders/SimpleBlockNAS) – Simple NAS framework for joint NAS and HPO optimization. 
 - [📄 Simplified reproduction of the article *"Can Large Language Model Agents Simulate Human Trust Behavior?"*](https://github.com/ShiftingBorders/airi_summerschool_2025) – measuring trust in small local LLMs in the Dictator Game. Project completed for the summer school *"Summer with AIRI 2025"*.  
 
 
