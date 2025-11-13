@@ -14,11 +14,12 @@ I also work with Neural Architecture Search (NAS) and Evolutionary Algorithms.
 ---
 
 ## 🛠️ Skills
-- **ML/DL**: PyTorch, PyTorch Lightning, Optuna  
+- **ML/DL**: PyTorch, TorchVision, scikit-learn, Optuna, HuggingFace Transformers, LightGBM  
 - **LLM & Multi-Agent**: Transformers, LangChain, LangGraph, Ollama Python  
 - **Data Processing**: Pandas, NumPy, Matplotlib, Seaborn  
 - **DevOps**: Git, Docker, Docker-compose  
-- **Databases**: ChromaDB, Redis
+- **Databases**: PostgreSQL, SQLAlchemy, ChromaDB, Redis
+- **Backend**: FastAPI
 
 ---
 
