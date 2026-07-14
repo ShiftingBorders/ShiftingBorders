@@ -1,37 +1,42 @@
-# 👋 Hello!  
+# 👋 Hello! I'm Viktor Volkov
 
-My name is Viktor Volkov, and I am an aspiring researcher in the field of ML/DL.  
-My current research revolves around LLM-based AI agents and Multi-Agent Systems.  
-I also work with Neural Architecture Search (NAS) and Evolutionary Algorithms.
+I am an aspiring researcher in the field of Machine Learning and Deep Learning (ML/DL). 
+
+My current research focuses on **LLM-driven evolution** and methods to optimize its performance while reducing computational costs. I am also interested in **Recursive Self-Improvement** and novel AI architectures. Previously, my work focused on evolutionary neural architecture search (NAS) applied to computer vision tasks.
 
 ---
 
 ## 🔬 Research Interests
-- 🤖 LLM Agents / Multi-Agent Systems
-- 🧬 Neural Architecture Search
-- 🌱 Evolutionary Algorithms
-
+* **🧬 LLM-Driven Evolution & Self-Improvement:** Enhancing LLM-driven evolution through persistent memory architectures and adaptive curriculum learning.
+* **📉 Efficiency & Optimization:** Accelerating search runtimes, reducing compute overhead, and optimizing resource allocation in evolutionary pipelines.
+* **🔄 Recursive Self-Improvement:** Investigating self-correcting systems capable of iterative, autonomous meta-learning.
 ---
 
 ## 🛠️ Skills
-- **ML/DL**: PyTorch, TorchVision, scikit-learn, Optuna, HuggingFace Transformers, LightGBM  
-- **LLM & Multi-Agent**: Transformers, LangChain, LangGraph, Ollama Python  
-- **Data Processing**: Pandas, NumPy, Matplotlib, Seaborn  
-- **DevOps**: Git, Docker, Docker-compose  
-- **Databases**: PostgreSQL, SQLAlchemy, ChromaDB, Redis
-- **Backend**: FastAPI
+
+* **Core ML/DL:** PyTorch, HuggingFace Transformers, scikit-learn, Optuna
+* **LLM & Multi-Agent:** LangGraph, Langchain, vLLM
+* **Data Science & Viz:** NumPy, Pandas, Matplotlib, Seaborn
+* **Backend & DBs:** FastAPI, Redis, PostgreSQL, ChromaDB
+* **DevOps & Tools:** Git, Docker, Docker-compose
 
 ---
 
 ## 🚀 Projects
-- [⚔️ HeroBench: A Benchmark for Long-Horizon Planning and Structured Reasoning in Virtual Worlds](https://github.com/stefanrer/HeroBench) - A1 Agent developer.
-- [🧬 BlockNAS](https://github.com/ShiftingBorders/SimpleBlockNAS) – Simple NAS framework for joint NAS and HPO optimization. 
-- [📄 Simplified reproduction of the article *"Can Large Language Model Agents Simulate Human Trust Behavior?"*](https://github.com/ShiftingBorders/airi_summerschool_2025) – measuring trust in small local LLMs in the Dictator Game. Project completed for the summer school *"Summer with AIRI 2025"*.  
 
+* **[🧠 EvoMem (GigaEvo Core)](https://github.com/FusionBrainLab/gigaevo-core)** – *Main Contributor*
+  Developed a general-purpose memory system designed for the GigaEvo framework, focusing on robust context management and persistence for evolutionary ML processes.
+  
+* **[⚔️ HeroBench](https://github.com/stefanrer/HeroBench)** – *AI Agent Developer*
+  A comprehensive benchmark evaluating long-horizon planning and structured reasoning capabilities of LLM agents within virtual worlds.
+  
+* **[📄 LLM Trust Simulation](https://github.com/ShiftingBorders/airi_summerschool_2025)** – *Independent Researcher*
+  A simplified reproduction project measuring economic trust behaviors in small, local LLMs utilizing the Dictator Game paradigm. *Developed during the "Summer with AIRI 2025" research school.*
 
 ---
 
 ## 📫 Contact
+
 [![Website](https://img.shields.io/badge/🌐_Personal_Website-blue?style=flat-square)](https://sites.google.com/view/volkov-research) 
 
-💬 You can also reach out via the other methods on my website.
+💬 Feel free to explore my research website above for additional ways to connect or collaborate!
